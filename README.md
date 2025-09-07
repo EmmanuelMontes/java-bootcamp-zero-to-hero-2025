@@ -33,7 +33,7 @@ During the bootcamp we will use Jshell, the interactive Java REPL, to quickly ex
 ## Instrucciones para usar / How to Use
 
 1. Clonar el repositorio / Clone the repository
-2. 2. Abrir en un IDE compatible con Java o consola para usar Jshell / Open in a Java-compatible IDE or terminal to use Jshell.
+2. Abrir en un IDE compatible con Java o consola para usar Jshell / Open in a Java-compatible IDE or terminal to use Jshell.
 3. Para usar Jshell, escribe en la terminal: ``jshell`` y puedes ejecutar código directamente / You can run code snippets directly.
 4. Sigue los ejercicios y prácticas usando Jshell o archivos Java según corresponda / Follow the exercises and practices using Jshell or Java files as appropriate.
 
